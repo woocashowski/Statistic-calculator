@@ -1,0 +1,10 @@
+Dane:
+[45.0, 87.0, 25.0, 90.0]
+Średnia:
+61.75
+Mediana:
+66.0000
+Odchylenie standardowe:
+27.681221071332818
+Wariancja:
+1022.25
